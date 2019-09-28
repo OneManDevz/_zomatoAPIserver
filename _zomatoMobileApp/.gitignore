@@ -7,6 +7,5 @@ npm-debug.*
 *.mobileprovision
 denne_menu_ruzinov.txt
 .watchmanconfig
-package-lock.json
 backup.js
 App_v2.js
