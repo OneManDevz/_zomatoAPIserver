@@ -8,13 +8,13 @@
   },
   "dependencies": {
     "braces": "^3.0.2",
-    "expo": "^32.0.0",
+    "expo": "^38.0.8",
     "npm-install-peers": "^1.2.1",
-    "react": "16.5.0",
+    "react": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^8.2.3"
   },
   "private": true
 }
