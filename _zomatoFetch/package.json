@@ -10,7 +10,7 @@
     "moment": "^2.27.0",
     "mongodb": "^3.5.9",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
